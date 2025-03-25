@@ -185,6 +185,13 @@ Para verificar em Jobs o pipeline deve aparecer:
 ![image](https://github.com/user-attachments/assets/cdeea50b-f65b-4b95-8f42-de6ae699b8b7)
 
 
+## Deletar o Resource Group
+
+Para conluir esse lab delete o resource group para não gerar custos desnecessários:
+
+![image](https://github.com/user-attachments/assets/db254803-acc8-41de-85f5-fe0cedbf56d5)
+
+
 
 
 
